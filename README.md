@@ -48,6 +48,6 @@ Conference presentation
  **Repository Navigation**
 
 - 📁 [Data](data/README.md)
-- 📁 [Notebooks](notebooks/)
-- 📁 [Results](Results/)
+- 📁 [Notebooks](notebooks/README.md)
+- 📁 [Results](Results/README.md)
 - 📄 [Honours Dissertation (PDF)](Results/Final_ITRPA4-34 Research Project.pdf)
