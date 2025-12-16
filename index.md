@@ -43,3 +43,12 @@ Honours dissertation
 
 Conference presentation
  
+## Repository Navigation
+
+- 📁 [Data](data/README.md)
+- 📁 [Notebooks](notebooks/)
+- 📁 [Figures](figures/)
+- 📁 [Analysis](analysis/)
+- 📄 [Honours Dissertation (PDF)](paper/dissertation.pdf)
+
+
