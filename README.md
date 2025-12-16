@@ -45,7 +45,7 @@ Honours dissertation
 
 Conference presentation
 
-## Repository Navigation
+ **Repository Navigation**
 
 - 📁 [Data](data/README.md)
 - 📁 [Notebooks](notebooks/)
