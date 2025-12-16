@@ -49,6 +49,5 @@ Conference presentation
 
 - 📁 [Data](data/README.md)
 - 📁 [Notebooks](notebooks/)
-- 📁 [Figures](figures/)
-- 📁 [Analysis](analysis/)
-- 📄 [Honours Dissertation (PDF)](paper/dissertation.pdf)
+- 📁 [Results](Results/)
+- 📄 [Honours Dissertation (PDF)](Results/Final_ITRPA4-34 Research Project.pdf)
