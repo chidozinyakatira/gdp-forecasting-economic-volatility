@@ -49,5 +49,5 @@ Conference presentation
 
 - 📁 [Data](data/README.md)
 - 📁 [Notebooks](notebooks/README.md)
-- 📁 [Results](Results/README.md)
+- 📁 [Results](https://github.com/chidozinyakatira/gdp-forecasting-economic-volatility/tree/main/Results)
 - 📄 [Honours Dissertation (PDF)](Results/Final_ITRPA4-34 Research Project.pdf)
