@@ -50,4 +50,4 @@ Conference presentation
 - 📁 [Data](https://github.com/chidozinyakatira/gdp-forecasting-economic-volatility/tree/main/data)
 - 📁 [Notebooks](https://github.com/chidozinyakatira/gdp-forecasting-economic-volatility/tree/main/notebooks)
 - 📁 [Results](https://github.com/chidozinyakatira/gdp-forecasting-economic-volatility/tree/main/Results)
-- 📄 [Honours Dissertation (PDF)](Results/Final_ITRPA4-34 Research Project.pdf)
+- 📄 [Honours Dissertation (PDF)](https://github.com/chidozinyakatira/gdp-forecasting-economic-volatility/blob/main/Results/Final_ITRPA4-34%20Research%20Project.pdf)
