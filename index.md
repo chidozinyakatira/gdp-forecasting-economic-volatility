@@ -42,13 +42,11 @@ Honours dissertation
  journal paper
 
 Conference presentation
- 
-## Repository Navigation
+ **Repository Navigation**
 
-- 📁 [Data](data/README.md)
-- 📁 [Notebooks](notebooks/)
-- 📁 [Figures](figures/)
-- 📁 [Analysis](analysis/)
-- 📄 [Honours Dissertation (PDF)](paper/dissertation.pdf)
+- 📁 [Data](https://github.com/chidozinyakatira/gdp-forecasting-economic-volatility/tree/main/data)
+- 📁 [Notebooks](https://github.com/chidozinyakatira/gdp-forecasting-economic-volatility/tree/main/notebooks)
+- 📁 [Results](https://github.com/chidozinyakatira/gdp-forecasting-economic-volatility/tree/main/Results)
+- 📄 [Honours Dissertation (PDF)](https://github.com/chidozinyakatira/gdp-forecasting-economic-volatility/blob/main/Results/Final_ITRPA4-34%20Research%20Project.pdf)
 
 
